@@ -1,0 +1,6 @@
+{
+  "truecommerce": {
+    "api_key": "your_truecommerce_api_key",
+    "api_url": "https://your_truecommerce_instance_url"
+  }
+}

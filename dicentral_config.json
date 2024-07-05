@@ -1,0 +1,6 @@
+{
+  "dicentral": {
+    "api_key": "your_dicentral_api_key",
+    "api_url": "https://your_dicentral_instance_url"
+  }
+}
